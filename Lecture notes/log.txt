@@ -1,0 +1,5 @@
+<ipython-input-1-62cc18cfba68>[LINE:10]# DEBUG    [2020-12-13 16:32:56,540]  Сообщение для отладки
+<ipython-input-1-62cc18cfba68>[LINE:11]# INFO     [2020-12-13 16:32:56,540]  Самое обыкновенное информационное сообщение
+<ipython-input-1-62cc18cfba68>[LINE:12]# WARNING  [2020-12-13 16:32:56,540]  Предупреждение
+<ipython-input-1-62cc18cfba68>[LINE:13]# ERROR    [2020-12-13 16:32:56,540]  Ошибка
+<ipython-input-1-62cc18cfba68>[LINE:14]# CRITICAL [2020-12-13 16:32:56,541]  Полный крах
